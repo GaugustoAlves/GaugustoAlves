@@ -90,5 +90,5 @@ My name is Gabriel Augusto. At the time of writing this file, I am 23 years old 
     <img alt="bootstrap" title="bootstrap-icon" src="https://img.shields.io/badge/bootstrap-purple?style=for-the-badge&logo=bootstrap">
 </a>
 </p>
-<hr>
+
 
