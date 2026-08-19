@@ -5,7 +5,7 @@
 Meu nome é Gabriel Augusto. No momento da criação desse arquivo, tenho 23 anos e sou da cidade de Guaratinguetá SP. Atualmente estou no 4° semestre de Análise e Desenvolvimento de Sistemas na FATEC SP. Possuo grande curiosidade em saber como sites, programas e aplicações funcionam por de baixo dos panos e estou sempre que possível em busca de adquirir mais contéudo nessa vasta área da tecnologia.
 <hr>
 
-#### ⚙️​Tecnologias usadas
+### ⚙️​Tecnologias usadas
 
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noopener noreferrer">
@@ -42,16 +42,6 @@ Meu nome é Gabriel Augusto. No momento da criação desse arquivo, tenho 23 ano
 </a>
 
 </p>
-
-
-
-
-
-
-
-
-
-
 <hr>
 
 <br>
@@ -65,7 +55,7 @@ Meu nome é Gabriel Augusto. No momento da criação desse arquivo, tenho 23 ano
 My name is Gabriel Augusto. At the time of writing this file, I am 23 years old and from the city of Guaratinguetá, São Paulo, Brazil. I am currently in my 4th semester of Systems Analysis and Development at FATEC São Paulo. I am deeply curious about how websites, software, and applications work under the hood, and whenever possible, I strive to expand my knowledge in this vast field of technology.
 <hr>
 
-#### ⚙️Technologies Used
+### ⚙️Technologies Used
 
 <p align="left">
   <a href="https://www.java.com" target="_blank">
