@@ -12,7 +12,7 @@ Meu nome é Gabriel Augusto. No momento da criação desse arquivo, tenho 23 ano
     <img alt="Java" title="Java-icon" src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk&logoColor=white">
   </a>
 
-  <a href="https://www.python.com" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.python.org" target="_blank" rel="noopener noreferrer">
     <img alt="Python" title="Python-icon" src="https://img.shields.io/badge/Pyhton-yellow?style=for-the-badge&logo=python">
   </a>
 
