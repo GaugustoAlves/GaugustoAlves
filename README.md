@@ -1,11 +1,11 @@
 # Gabriel Augusto
 
-# Aluno de ADS e desenvolvedor BackEnd
+# 🧑‍💻​ Aluno de ADS e desenvolvedor BackEnd
 
 Meu nome é Gabriel Augusto. No momento da criação desse arquivo, tenho 23 anos e sou da cidade de Guaratinguetá SP. Atualmente estou no 4° semestre de Análise e Desenvolvimento de Sistemas na FATEC SP. Possuo grande curiosidade em saber como sites, programas e aplicações funcionam por de baixo dos panos e estou sempre que possível em busca de adquirir mais contéudo nessa vasta área da tecnologia.
 <hr>
 
-#### Tecnologias usadas
+#### ⚙️​Tecnologias usadas
 
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noopener noreferrer">
@@ -28,7 +28,30 @@ Meu nome é Gabriel Augusto. No momento da criação desse arquivo, tenho 23 ano
 <a href="https://www.react.com" target="_blank" rel="noopener noreferrer">
     <img alt="react" title="react-icon" src="https://img.shields.io/badge/react-%2300C0A3?style=for-the-badge&logo=react">
   </a>
+
+  <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noopener noreferrer">
+    <img alt="css" title="css-icon" src="https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css">
+</a>
+
+ <a href="https://html.spec.whatwg.org/" target="_blank" rel="noopener noreferrer">
+    <img alt="html" title="html-icon" src="https://img.shields.io/badge/html-red?style=for-the-badge&logo=index">
+</a>
+
+<a href="https://www.bootstrap.com" target="_blank" rel="noopener noreferrer">
+    <img alt="bootstrap" title="bootstrap-icon" src="https://img.shields.io/badge/bootstrap-purple?style=for-the-badge&logo=bootstrap">
+</a>
+
 </p>
+
+
+
+
+
+
+
+
+
+
 <hr>
 
 <br>
@@ -37,12 +60,12 @@ Meu nome é Gabriel Augusto. No momento da criação desse arquivo, tenho 23 ano
 
 # Gabriel Augusto
 
-# Systems Analysis and Development Student & Back-End Developer
+# 🧑‍💻 Systems Analysis and Development Student & Back-End Developer
 
 My name is Gabriel Augusto. At the time of writing this file, I am 23 years old and from the city of Guaratinguetá, São Paulo, Brazil. I am currently in my 4th semester of Systems Analysis and Development at FATEC São Paulo. I am deeply curious about how websites, software, and applications work under the hood, and whenever possible, I strive to expand my knowledge in this vast field of technology.
 <hr>
 
-#### Technologies Used
+#### ⚙️Technologies Used
 
 <p align="left">
   <a href="https://www.java.com" target="_blank">
@@ -64,6 +87,18 @@ My name is Gabriel Augusto. At the time of writing this file, I am 23 years old 
   <a href="https://react.dev" target="_blank">
     <img alt="React" title="React-icon" src="https://img.shields.io/badge/React-%2300C0A3?style=for-the-badge&logo=react">
   </a>
+
+  <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noopener noreferrer">
+    <img alt="css" title="css-icon" src="https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css">
+</a>
+
+ <a href="https://html.spec.whatwg.org/" target="_blank" rel="noopener noreferrer">
+    <img alt="html" title="html-icon" src="https://img.shields.io/badge/html-red?style=for-the-badge&logo=index">
+</a>
+
+<a href="https://www.bootstrap.com" target="_blank" rel="noopener noreferrer">
+    <img alt="bootstrap" title="bootstrap-icon" src="https://img.shields.io/badge/bootstrap-purple?style=for-the-badge&logo=bootstrap">
+</a>
 </p>
 <hr>
 
